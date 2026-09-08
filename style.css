@@ -178,7 +178,7 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 992px) { #cursor-glow { display: none; } }
 
 #back-to-top {
-  position: fixed; bottom: 2rem; right: 2rem; width: 44px; height: 44px;
+  position: fixed; bottom: 92px; right: 31px; width: 44px; height: 44px;
   background-color: var(--primary-accent); color: var(--on-accent); border: none;
   border-radius: var(--radius-sm); font-size: 1rem; cursor: pointer; z-index: 1000;
   opacity: 0; transform: translateY(20px) scale(0.9); transition: all var(--transition-normal);
